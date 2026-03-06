@@ -1,0 +1,19 @@
+# ───── KiCad (Hardware/) ─────
+Hardware/*-backups/
+Hardware/fp-info-cache
+Hardware/_autosave-*
+Hardware/*.lck
+Hardware/*.000
+Hardware/*.~*
+
+# ───── Firmware (Arduino/VS Code) ─────
+Firmware/**/.pio/
+Firmware/**/build/
+Firmware/**/.vscode/
+Firmware/**/*.log
+
+# ───── General ─────
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak

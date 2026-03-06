@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ul_NXS0102DC-Q100H")(type "KiCad")(uri "C:/Users/maniyar.ammar/Documents/Content/Zeen-AI-Plug/HARDWARE/EXTERNAL LIBRARIES/ul_NXS0102DC-Q100H/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_MLT-8530")(type "KiCad")(uri "C:/Users/maniyar.ammar/Documents/Content/Zeen-AI-Plug/HARDWARE/EXTERNAL LIBRARIES/ul_MLT-8530/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "CH291-1220LF")(type "KiCad")(uri "C:/Users/maniyar.ammar/Documents/Content/Zeen-AI-Plug/HARDWARE/EXTERNAL LIBRARIES/CH291-1220LF")(options "")(descr ""))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "C:/Users/maniyar.ammar/Documents/Content/Zeen-AI-Plug/HARDWARE/EXTERNAL LIBRARIES/DM-OLED096-636")(options "")(descr ""))
+  (lib (name "SS14")(type "KiCad")(uri "C:/Users/maniyar.ammar/Documents/Content/Zeen-AI-Plug/HARDWARE/EXTERNAL LIBRARIES/SS14")(options "")(descr ""))
+)
