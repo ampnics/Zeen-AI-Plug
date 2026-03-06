@@ -275,7 +275,7 @@ You are free to use, modify, and distribute this project for personal and commer
 
 ## Designed By
 
-**Md Ammar Maniyar** - [Ampnics]([https://github.com/ampnics](https://www.linkedin.com/in/ammarece?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+**Md Ammar Maniyar** - [Ampnics]((https://www.linkedin.com/in/ammarece?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 ## Sponsered By
 **NextPCB** - [NextPCB](https://www.nextpcb.com/?code=Ampnics)
